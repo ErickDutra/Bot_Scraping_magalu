@@ -1,4 +1,4 @@
-# Bot Scraping magalu
+#Scraping magalu
 WebScraping do site magalu
 
 
