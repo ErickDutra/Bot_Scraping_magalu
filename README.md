@@ -3,7 +3,7 @@
 WebScraping do site magalu
 
 
-> Primeiro uso : Todos os vão ser listados
+> Primeiro uso : Todos os produtos vão ser listados
 
 > Segundo uso :  Somente Novos Produtos
 
